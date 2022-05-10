@@ -48,4 +48,5 @@
 
 
 
-# IN Practical 17 use Intellji Idea Software and RUN the Main.java  
+
+IN Practical 17 use Intellji Idea Software and RUN the Main.class  
