@@ -40,3 +40,12 @@
 23. Write a generic method that returns the minimum elements in a two dimensional array.
 24. Define MYPriorityQueue class that extends Priority Queue to implement the Cloneable interface and implement the clone() method to clone a priority queue.
 25. Write a program that reads words from a text file and displays all the nonduplicate words in descending order.The text file is passed as a command-line argument.
+
+
+
+
+
+
+
+
+# IN Practical 17 use Intellji Idea Software and RUN the Main.java  
