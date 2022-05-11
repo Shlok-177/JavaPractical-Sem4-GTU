@@ -1,3 +1,6 @@
+/*Write a recursive method that returns the smallest integer in an array. Write a test program that prompts the user to enter an integer and display its product.
+*/
+
 import java.util.Scanner;
 import java.util.*;
 

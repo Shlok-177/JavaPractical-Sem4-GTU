@@ -1,3 +1,6 @@
+/*Define MYPriorityQueue class that extends Priority Queue to implement the Cloneable interface and implement the clone() method to clone a priority queue.
+*/
+
 import java.util.PriorityQueue;
 
 

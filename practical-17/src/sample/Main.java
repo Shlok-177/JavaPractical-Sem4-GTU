@@ -1,3 +1,6 @@
+/*Write a program that displays a tic-tac-toe board. A cell may be X, O, or empty. What to display at each cell is randomly decided. The X and O are images in the files X.gif and O.gif.
+*/
+
 package sample;
 
 import javafx.application.Application;

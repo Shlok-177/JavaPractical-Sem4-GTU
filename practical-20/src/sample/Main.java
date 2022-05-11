@@ -1,3 +1,6 @@
+/*Write a GUI program that use button to move the message to the left and right and use the radio button to change the color for the message displayed.
+ */
+
 package sample;
 
 import javafx.application.Application;

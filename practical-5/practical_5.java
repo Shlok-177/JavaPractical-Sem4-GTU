@@ -1,3 +1,6 @@
+/* Write a program that prompts the user to enter three integers and display the integers in decreasing order.
+ */
+
 import java.util.Scanner;
 
 class practical_5 {

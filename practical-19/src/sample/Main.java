@@ -1,3 +1,6 @@
+/*Write a program that displays the color of a circle as red when the mouse button is pressed and as blue when the mouse button is released.
+*/
+
 package sample;
 
 import javafx.application.Application;
