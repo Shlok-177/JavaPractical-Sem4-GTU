@@ -49,4 +49,4 @@
 
 
 
-## IN Practical 17 use Intellji Idea Software and RUN the Main.class  
+## IN Practical 17 to Practical 20 use Intellji Idea Software and RUN the Main.class  
